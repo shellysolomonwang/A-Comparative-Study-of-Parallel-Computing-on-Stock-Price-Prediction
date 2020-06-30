@@ -1,0 +1,2 @@
+# A-Comparative-Study-of-Parallel-Computing-on-Stock-Price-Prediction
+The project uses a stock price prediction dataset to run on various designed AWS clusters and local machines. The purpose of this study is to testify the scalability and time-efficiency on parallized cloud servers and local servers among different stock price prediction models. This project aims to give insights to the stock market movement and five different algorithms’ implementations through Amazon Elastic MapReduce (EMR) with two nodes, four nodes and six nodes, and local computers.
